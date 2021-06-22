@@ -12,8 +12,8 @@ export const mainMenuItems = [
     title: "about",
   },
   {
-    path: "/journal",
-    title: "journal",
+    path: "/blog",
+    title: "blog",
   },
   {
     path: "/contact",
